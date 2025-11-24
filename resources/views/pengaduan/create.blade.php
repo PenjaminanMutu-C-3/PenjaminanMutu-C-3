@@ -1,3 +1,4 @@
+{{-- Revisi tampilan form pengaduan oleh Yusuf --}}
 @extends('layouts.app')
 @section('title', 'Form Pengaduan')
 
