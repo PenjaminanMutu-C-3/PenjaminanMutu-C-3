@@ -1,3 +1,4 @@
+{{-- Revisi tampilan oleh Yusuf --}}
 @extends('layouts.app')
 @section('title', 'Daftar Pengaduan')
 
