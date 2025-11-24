@@ -9,7 +9,7 @@ Andini Artika Ridwan (F52123084) sebagai Project Manager,
 Muh Yusuf (F52123095) sebagai Frontend Developer,
 Joshua Riman Kape (f52123092) sebagai Backend Developer,
 Kadek Surya Adi (F52123099) sebagai Database Administrator,
-Fachriadi (f52123077) sebagai UI/UX.
+Fachriadi (F52123077) sebagai UI/UX.
 
 # UI/UX Sistem
 https://www.figma.com/design/pCJJ6aoJPNR5DL9Pqxq7gF/Untitled?node-id=1-129&t=d9AMBsottfKw7zLj-1 
