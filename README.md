@@ -7,7 +7,7 @@ Pengumpulan Tugas Mata Kuliah Penjaminan Mutu Sistem Informasi
 # Anggota Kelompok
 Andini Artika Ridwan (F52123084) sebagai Project Manager,
 Muh Yusuf (F52123095) sebagai Frontend Developer,
-Joshua Riman Kape (f52123092) sebagai Backend Developer,
+Joshua Riman Kape (F52123092) sebagai Backend Developer,
 Kadek Surya Adi (F52123099) sebagai Database Administrator,
 Fachriadi (F52123077) sebagai UI/UX.
 
